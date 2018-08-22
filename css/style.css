@@ -1,0 +1,467 @@
+/***********home style.css******/
+.container{
+    display: block;
+    box-shadow: 5px 10px 13px 5px;
+}
+.header{
+    width: auto;
+    height: 150px;
+    background-image: url(../images/header.jpg)
+}
+#hello{
+    width: 190px;
+    margin:5px;
+    float: left;
+}
+#zz{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    display: inline;
+    float: right;
+    font-weight: bold;
+    font-size: 20;
+    padding:2%;
+}
+.first{
+    height: 600px;
+    padding-top: 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../images/water.jpg);
+}
+#cgda{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60;
+    font-weight: bold;
+}
+#cgdas{
+    text-align: center;
+    font-size: 20;
+    font-weight: bold;
+}
+.second{
+    height: 310px;
+}
+#school{
+    float: right;
+    margin-right: 300px;
+}
+#read{
+    color:aqua;
+    font-weight: bold;
+    padding-left:150px;
+    font-family: arial black;
+    text-decoration: none;
+}
+#background{
+    padding-left: 150px;
+    font-family: calibri;
+}
+#paragraph{
+    padding-left: 100px;
+    font-family: calibri;
+}
+.third{
+    height: 420px;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-repeat: no-repeat;
+    background-image: url(../images/water.jpg);
+}
+#c{
+    align-content: center;
+    justify-content: center;
+    display: inline;
+    width: 250px;
+    height: 200px;
+    margin-left: 100px;
+}
+#un{
+    text-align: center;
+    justify-content: center;
+    color: skyblue;
+    font-weight: bold;
+}
+hr{
+    background-color: #000000;
+    width:auto;
+    height:3px;
+}
+.fourth{
+    background-color: gainsboro;
+    height: 670px;
+    width: 1100px;
+    padding-top:20px;
+    float: left;
+}
+.fourthss{
+    float:right;
+    width: 467px;
+    height: 670px;
+    padding-top:20px;
+    background-color:gainsboro;
+}
+#success{
+    text-align: center;
+    font-weight: bolder;
+    font-family: arial black;
+    padding-top: 25px;
+}
+#woman{
+    float: left;
+    margin-left: 30px;
+    background-clip: border-box;
+    shape-outside:url(../images/woman.jpg);
+    height: 200px;
+    width: 250px;
+}
+#j3{
+    padding-left: 30px;
+    float: left;
+    text-align: left;
+    clear: both;
+    font-family: arial black;
+}
+#man{
+    height: 200px;
+    width: 250px;
+    padding-left: 30px;
+}
+#quote{
+    text-align:left;
+    font-size: 20;
+    font-weight: bold;
+    font-family: calibri;
+    float: left;
+    padding-left:30px;
+}
+#mm{
+    padding-left: 840px;
+    font-family: arial black;
+}
+#pp{
+    float:right;
+    text-align:left;
+    font-weight: bold;
+    margin-top: 160px;
+    font-size: 20px;
+    font-family: calibri;
+    
+}
+#ff{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-family: arial black;
+    font-size: 15px;
+    margin-top: 20px;
+
+}
+footer{
+    height: 80px;
+    clear:both;
+    padding-top: 15px;
+    background-image: url(../images/header.jpg);
+}
+/*******About us style.css*********/
+#write{
+    color:white;
+    font-weight: bold;
+    margin-left:30px;
+    border: 2px solid white;
+    font-family: arial black;
+    text-decoration: none;
+}
+.six{
+    background-image: url(../images/teamwork%20background.jpg);
+    height: 350px;
+    width: 90%;
+    float:left;
+    margin-right:550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#about{
+    color:#fff;
+    font-weight: bold;
+    font-family: calibri;
+    font-size: 60px;
+    margin-left: 30px;
+}
+#UCSO{
+    color:#fff;
+    font-family: calibri;
+    font-size: 20px;
+    margin-left:30px;
+}
+.one{
+    width: 30%;
+    float: left;
+}
+#vision{
+    font-size:30px;
+    font-family: calibri;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: saddlebrown;
+}
+#recognized{
+    font-family: calibri;
+    margin-left: 20px;
+    width: 300px;
+    float: left;
+}
+#mandate{
+    font-family: calibri;
+    margin-top: 200px;
+    font-size: 30px;
+    margin-right: 100px;
+    margin-left: 20px;
+    color: saddlebrown;
+}
+#olz{
+    font-family: calibri;
+    margin-left: 20px;
+    width: 300px;
+}
+.two{
+    width: 70%;
+    float:right;
+}
+
+#our{
+    font-size: 30px;
+    font-family: calibri;
+    margin-left: 20px;
+    float: left;
+    color: saddlebrown;
+}
+#promote{
+    margin-left: 20px;
+    text-align: left;
+    float: left;
+    clear: both;
+}
+#core{
+    font-size: 30px;
+    margin-left: 550px;
+    font-family: calibri;
+    color: saddlebrown;
+}
+#to{
+    clear: right;
+    margin-left: 500px;
+}
+
+ul li{
+    font-size: 15px;
+    color: black;
+    clear: right;
+    margin-left: 500px;
+}
+/*******programs and services.css**************/
+.twelve{
+    height: 60px;
+    color: antiquewhite;
+}
+#ten{
+    font-size: 60px;
+    color: saddlebrown;
+    font-weight: bold;
+    margin-left: 50px;
+}
+h2{
+    font-size:20px;
+    color: saddlebrown;
+    font-weight: bold;
+    margin-left: 50px;
+}
+p{
+    color:#000000;
+    font-weight: bold;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.makuach{
+    float: left;
+    width:20%;
+    height: 700px;
+    margin-top: 150px;
+}
+.bol{
+    float: left;
+    width: 20%;
+    margin-top: 120px;
+    height: 700px;
+}
+.reath{
+    float: right;
+    width: 60%;
+    height: 700px;
+}
+#source{
+    width: 50%;
+    height: 700px;
+    margin-left: 100px;
+}
+
+/**********our partners.css**************/
+
+.headers{
+    width: auto;
+    height: 150px;
+    background-color:gray;
+}
+.nav{
+    width: auto;
+    height: 100px;
+    padding-top:10px;
+    background-color:gainsboro;
+}
+#partner{
+    text-align: center;
+    display: inline;
+    padding-left: 720px;
+    justify-content: center;
+}
+#partners{
+    text-align: center; 
+}
+.riise{
+    width:70%;
+    height: 1200px;
+    float: left;
+}
+.dennis{
+    width:30%;
+    height: 800px;
+    float: right;
+}
+#mutura{
+    width: 180px;
+    float: right;
+    margin-right: 100px;
+}
+#muturi{
+    width: 180px;
+    float: right;
+    margin-right: 100px;
+}
+#republic{
+    margin-left: 80px;
+    margin-top: 50px;
+    color: saddlebrown;
+}
+#ministry{
+    margin-left: 100px;
+    font-size: 20px;
+    font-family: calibri;
+}
+#provision{
+    margin-left: 100px;
+    font-size: 20px;
+    font-family: calibri;
+}
+#fao{
+    float: left;
+    font-size: 30px;
+    color: saddlebrown;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+#center{
+    float: left;
+    font-size: 20px;
+    clear: both;
+    font-family: calibri;
+    margin-bottom: 50px;
+    margin-left: 80px;
+
+}
+#element{
+    clear: both;
+    font-size: 18px;
+    float: left;
+    margin-left: 20px;
+    font-family: calibri;
+    margin-left: 100px;
+}
+input{
+    margin-left: 50px;
+    border: 2px solid;
+}
+h5{
+    margin-left: 50px;
+}
+#categories{
+    margin-left: 50px;
+    font-size: 12px;
+}
+#log{
+    margin-left: 50px;
+    text-decoration: none;
+    color:#000000;
+    list-style-type: none;
+}
+/************contact.style.css***************/
+#design{
+    height:700px;
+    width:100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../images/personal.jpg);
+}
+form{
+    width:70%;
+    height:60%;
+    margin-left: 250px;
+    background-image:url(../images/transparent%20images.jpg);
+}
+#contact{
+    font-size: 50px;
+    text-align: center;
+    font-weight:bold;
+}
+#God{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: calibri;
+}
+#co{
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    list-style-type: none;
+    font-family: calibri;
+}
+#juba{
+    height: 50%;
+    width: 60%;
+    margin-left:25%;
+    margin-top: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
